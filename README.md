@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🎊 Welcome 🎊
+
+📍 I'm from Hulunbuir.
+
+🔧 I'm a developer.
+
 <!--
 **Edward-Brock/Edward-Brock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
